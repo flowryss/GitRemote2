@@ -1,7 +1,11 @@
-body {
-    font-family: 'Poppins', sans-serif;
-    size: 10px;
+* {
+  font-family: 'Poppins', sans-serif;
+  size: 10px;
+  background-image: url("images/1025-536x354.jpg");
+  background-repeat: no-repeat;
+  backdrop-filter: blur(1px);
 }
+
 h1 {
   color: white;
   text-align: center;
